@@ -45,3 +45,5 @@ It then calculates the simple interest using:
 `SI = (P × R × T) / 100`
 # simple-interest-calculator
 # simple-interest-calculator
+
+## Bug Fix
